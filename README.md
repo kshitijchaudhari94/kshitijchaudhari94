@@ -1,14 +1,13 @@
-[![MasterHead]([https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss](https://media.licdn.com/dms/image/C4E12AQFRhw0xN-Dr9A/article-cover_image-shrink_600_2000/0/1599649394493?e=2147483647&v=beta&t=e_gcrig_cWJqz9Io8bZ1iSFKHJZMtILfEqdSLVzKevM))]
-
+[![MasterHead](https://media.licdn.com/dms/image/C4E12AQFRhw0xN-Dr9A/article-cover_image-shrink_600_2000/0/1599649394493?e=2147483647&v=beta&t=e_gcrig_cWJqz9Io8bZ1iSFKHJZMtILfEqdSLVzKevM)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm Kshitij Chaudhari</h1>
 <h3 align="center">Experienced Entrepreneur & Teacher transitioning to Data Science with 1 Year Internship in DataScience with proficiency in Python, SQL, Tableau, PowerBI Skilled.</h3>
-<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif](https://towardsartificialintelligence.medium.com/best-online-courses-to-compliment-your-online-offline-data-science-program-for-2022-a24351d56f53)">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*dBPwuC3Dh2WWFFYTwogTMA.gif">
 
 - 🔭 I’m currently working as **Data Science Trainee at AlmaBetter**
 
 - 📫 How to reach me **kshitijchaudhari0204@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QYdFbEDEqqN7ci9FkH5E58zeyjRhE0bi/view?usp=sharing](https://drive.google.com/file/d/1QYdFbEDEqqN7ci9FkH5E58zeyjRhE0bi/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/1QYdFbEDEqqN7ci9FkH5E58zeyjRhE0bi/view?usp=sharing](https://drive.google.com/file/d/1QYdFbEDEqqN7ci9FkH5E58zeyjRhE0bi/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
