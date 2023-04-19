@@ -4,6 +4,7 @@
 <h3 align="center">Experienced Entrepreneur & Teacher transitioning to Data Science with 1 Year Internship in DataScience with proficiency in Python, SQL, Tableau, PowerBI Skilled.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
+
 - 🔭 I’m currently working as **Data Science Trainee at AlmaBetter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kshitijchaudhari94](https://github.com/kshitijchaudhari94)
@@ -14,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/@kshitijchaudhari0204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@kshitijchaudhari0204" height="30" width="40" /></a>
-<a href="https://medium.com/@https://medium.com/@kshitijchaudhari.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@https://medium.com/@kshitijchaudhari.official" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/kshitijchaudhar6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/kshitijchaudhar6" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/@kshitijchaudhari0204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/@kshitijchaudhari0204" height="30" width="40" /></a>
+<a href="https://medium.com/https://medium.com/@kshitijchaudhari.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@kshitijchaudhari.official" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/@kshitijchaudhar6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/@kshitijchaudhar6" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
