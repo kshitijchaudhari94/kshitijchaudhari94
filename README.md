@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kshitijchaudhari0204@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QYdFbEDEqqN7ci9FkH5E58zeyjRhE0bi/view?usp=sharing](https://drive.google.com/file/d/1QYdFbEDEqqN7ci9FkH5E58zeyjRhE0bi/view?usp=sharing)
+- 📄 Work Experience :  [https://drive.google.com/file/d/1QYdFbEDEqqN7ci9FkH5E58zeyjRhE0bi/view?usp=sharing](https://drive.google.com/file/d/1QYdFbEDEqqN7ci9FkH5E58zeyjRhE0bi/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
