@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/C4E12AQFRhw0xN-Dr9A/article-cover_image-shrink_600_2000/0/1599649394493?e=2147483647&v=beta&t=e_gcrig_cWJqz9Io8bZ1iSFKHJZMtILfEqdSLVzKevM)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm Kshitij Chaudhari</h1>
-<h3 align="center">Experienced Entrepreneur & Teacher transitioning to Data Science with 1 Year Internship in DataScience with proficiency in Python, SQL, Tableau, PowerBI Skilled.</h3>
+<h3 align="center">Data Science with 2 Year Experience in DataScience with proficiency in Python, SQL, Power Automate, Machine Learning, Statistics, Natural Language processiong, LLM Models, Generative AI, Prompt Engineering, Team Management & Product Delivery.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*dBPwuC3Dh2WWFFYTwogTMA.gif">
 
 - 🔭 I’m currently working as **Data Science Trainee at AlmaBetter**
