@@ -3,11 +3,11 @@
 <h3 align="center"> Data Science with 2 Year Experience in DataScience with proficiency in Python, SQL, Power Automate, Machine Learning, Statistics, Natural Language processiong, LLM Models, Generative AI, Prompt Engineering, Team Management & Product Delivery. </h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*dBPwuC3Dh2WWFFYTwogTMA.gif">
 
-- 🔭 I’m currently working as **Data Science Trainee at AlmaBetter**
+- 🔭 I’m currently working as **Senior GenerativeAI Engineer at Tech Mahindra**
 
-- 📫 How to reach me **kshitijchaudhari0204@gmail.com**
+- 📫 How to reach me **kshitij.jobs02@gmail.com**
 
-- 📄 Resume [[https://drive.google.com/file/d/1QYdFbEDEqqN7ci9FkH5E58zeyjRhE0bi/view?usp=sharing](https://drive.google.com/file/d/1GNwdgWXOHHFl0aawkbwdp9vS8rF0rgXX/view?usp=sharing)]
+- 📄 Resume [[https://drive.google.com/file/d/1QYdFbEDEqqN7ci9FkH5E58zeyjRhE0bi/view?usp=sharing](https://drive.google.com/file/d/17VP4m1nfF88FU9ra6nr5rokGn9al05Mn/view?usp=sharing)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
